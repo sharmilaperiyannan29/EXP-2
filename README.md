@@ -56,8 +56,36 @@ Calculation:
 
 Open circuit characteristics
 
+| S.No. | Voltage (V) | Current (A) |
+|-------|-------------|-------------|
+| 1     | 115         | 0.16        |
+| 2     | 120         | 0.18        |
+| 3     | 126         | 0.20        |
+| 4     | 129         | 0.21        |
+| 5     | 133         | 0.23        |
+| 6     | 135         | 0.24        |
+| 7     | 138         | 0.28        |
+| 8     | 142         | 0.30        |
+
+
+
   
 Load Characteristics:
- 
+
+
+| S.No. | Current (A) | Voltage (V) |
+|-------|-------------|-------------|
+| 1     | 1.2         | 220         |
+| 2     | 2.8         | 212         |
+| 3     | 3.2         | 208         |
+| 4     | 3.6         | 205         |
+| 5     | 5.5         | 200         |
+| 6     | 7.0         | 195         |
+
+
+
+
+
+
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
