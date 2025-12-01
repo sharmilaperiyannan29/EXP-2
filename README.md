@@ -83,15 +83,19 @@ Tabulation for Load Test:
 
 
 
-Model graph:
-Calculation: 
+Model graph: 
 
 Open circuit characteristics
+ 
+![WhatsApp Image 2025-12-01 at 15 48 33_c90e58d7](https://github.com/user-attachments/assets/81feb2c7-fdec-4ec6-b50d-905869e93d7f)
+
+
 
 
   
 Load Characteristics:
 
+![WhatsApp Image 2025-12-01 at 15 48 33_8383d0ed](https://github.com/user-attachments/assets/6bfac5b1-5b2c-4be4-bf9b-23b2920ec4ae)
 
 
 
